@@ -1,6 +1,6 @@
 # SurveyWebProject
 
-This project create Survey Form web page. Applications:
+This project create Survey Form web page. Applied techniques:
 
 HTML:
 - Head
